@@ -14,7 +14,8 @@ None of the rules below are in effect whilst in DRAFT status.<br/>
 
 [_This section provides an overview of this documents purpose._]
 
-The [New World MMO](https://newworld.com/) has an active and passionate community focused on speed running content.
+[New World](https://newworld.com/) is an MMO by game developer Amazon Game Studios (AGS).
+New World has an active and passionate community focused on speed running content.
 Speed running by its nature is fast evolving; regularly introducing new objectives, restrictions and strategies.
 The following rules are intended to present clear guidelines for the submission and recognition of speed running records, as well as maintaining the integrity of the speed running community.
 
@@ -51,7 +52,7 @@ Conditions:<br/>
 - Gold rank must be achieved
 
 Restrictions:<br/>
-- None
+- None[^1]
 
 Grouping:<br/>
 - Expedition - Each expedition has its own records
@@ -69,9 +70,22 @@ Conditions:<br/>
 - Gold rank must be achieved
 
 Restrictions:<br/>
-- No exploits
+- No exploits (see [Exploits](README.md#exploits))
 
 Grouping:<br/>
 - Expedition - Each expedition has its own records
 - [Mutation/Promotion/Curse - Different combinations affect run times]
 - [New World Version - Game updates can affect run times]
+
+## Tools
+
+A tool is a piece of hardware or software that is able to replace or augment the actions of a player.
+Tools can be used to enable the player to perform actions that they otherwise could not normally perform, or perform actions with greater consistency or efficacy, which can result in faster speed runs.
+
+## Exploits
+
+An exploit is a game bug or feature that when utilised grants an unintended benefit to a player.
+Exploits can be used to ease or skip otherwise necessary time consuming actions which can result in faster speed runs.
+All exploits identified by AGS are automatically regarded as exploits by these rules.
+
+[^1]: The lack of restrictions should not be considered an endorsement of violating the New World terms of service.
