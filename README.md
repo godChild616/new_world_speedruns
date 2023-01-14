@@ -6,8 +6,8 @@ It may or may not be used as a basis for any officially recognised rules.<br/>
 The document is currently deliberately concise to capture important considerations and minimise noise.<br/>
 Initial review and discussion will be conducted via Discord (M11, Benedict G., 5 Con Club).<br/>
 Feedback may also be submitted via a GitHub issue on the repository that this document is hosted.<br/>
-None of the rules below are in effect whilst in DRAFT status.<br/>
-*** STATUS: DRAFT ***<br/>
+None of the rules or processes outlined below are in effect whilst in DRAFT status.<br/>
+***<br/>
 </p>
 
 ## Introduction
@@ -70,6 +70,7 @@ Conditions:<br/>
 - Gold rank must be achieved
 
 Restrictions:<br/>
+- No tools (see [Tools](README.md#tools))
 - No exploits (see [Exploits](README.md#exploits))
 
 Grouping:<br/>
@@ -85,7 +86,7 @@ Tools can be used to enable the player to perform actions that they otherwise co
 ## Exploits
 
 An exploit is a game bug or feature that when utilised grants an unintended benefit to a player.
-Exploits can be used to ease or skip otherwise necessary time consuming actions which can result in faster speed runs.
+Exploits can be used to ease or skip otherwise necessary time consuming actions, which can result in faster speed runs.
 All exploits identified by AGS are automatically regarded as exploits by these rules.
 
-[^1]: The lack of restrictions should not be considered an endorsement of violating the New World terms of service.
+[^1]: The lack of restrictions should not be considered an endorsement of violating the New World terms of service (https://www.newworld.com/en-us/legal).
