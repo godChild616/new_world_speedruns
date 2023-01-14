@@ -42,7 +42,7 @@ This document and its content are defined and maintained by the New World speed 
 
 ### M10 Gold Any%
 
-[_This section defines the Any% category requirements.]
+[_This section defines the Any% category requirements._]
 
 Content:<br/>
 - Any level 10 mutated Expedition
@@ -54,13 +54,13 @@ Restrictions:<br/>
 - None
 
 Grouping:<br/>
-- [New World Version]
-- Expedition
-- [Mutation/Promotion/Curse]
+- Expedition - Each expedition has its own records
+- [Mutation/Promotion/Curse - Different combinations affect run times]
+- [New World Version - Game updates can affect run times]
 
 ### M10 Gold Glitchless
 
-[_This section defines the Glitchless category requirements.]
+[_This section defines the Glitchless category requirements._]
 
 Content:<br/>
 - Any level 10 mutated Expedition
@@ -72,6 +72,6 @@ Restrictions:<br/>
 - No exploits
 
 Grouping:<br/>
-- [New World Version]
-- Expedition
-- [Mutation/Promotion/Curse]
+- Expedition - Each expedition has its own records
+- [Mutation/Promotion/Curse - Different combinations affect run times]
+- [New World Version - Game updates can affect run times]
